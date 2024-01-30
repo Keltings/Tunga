@@ -1,6 +1,6 @@
 ## An AI-driven Tool for Record linkage in HDSS communities Within the INSPIRE Network
 
-**Criteria Selection:** No elimination required; exclusion limited to teams not meeting team membership criteria.
+**Criteria Selection:**
 
 **Submission Expectations:**
 
